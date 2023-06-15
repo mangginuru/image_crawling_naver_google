@@ -25,4 +25,3 @@ image URL 같은 경우 google과 naver에서 가끔 바뀌기도 합니다. 크
   python crawling_naver.py
 3) rename_fold.py
   python rename_fold.py
-
