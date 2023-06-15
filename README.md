@@ -5,7 +5,7 @@ crawling_google폴더에는 여러 사이트 크롤링이 가능하도록 되어
 google과 Naver의 이미지 크롤링이 가능합니다.
 
 ## 2. cawling_naver.py
-crawling_google_naver에서 네이버 같은 경우에는 썸네일 이미지는 가져오지만 이미지 클릭 후 높은 화질의 이미지를 가져오지 못합니다.
+crawling_google에서 네이버 같은 경우에는 썸네일 이미지는 가져오지만 이미지 클릭 후 높은 화질의 이미지를 가져오지 못합니다.
 따로 naver에서 이미지를 크롤링 할수 있는 파일도 남겨두었습니다.
 
 ## 3. 크롤링한 이미지를 이미지 기반 인식 학습을 위해 train과 test로 나눈 후 rename_fold.py를 실행 합니다.
