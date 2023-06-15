@@ -21,7 +21,9 @@ image URL 같은 경우 google과 naver에서 가끔 바뀌기도 합니다. 크
   python main.py --full -> 높은 화질 이미지 가져오기
 
   -> download 폴더 아래 google_0001.jpg 또는 naver_0001.jpg 라는 파일 이름으로 저장 됩니다.
+\n
 2) crawling_naver.py
   python crawling_naver.py
+\n
 3) rename_fold.py
   python rename_fold.py
